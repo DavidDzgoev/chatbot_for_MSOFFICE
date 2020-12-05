@@ -1,0 +1,6 @@
+botbuilder-core>=4.7.0
+aiohttp
+datetime
+botbuilder-dialogs
+bs4
+requests
